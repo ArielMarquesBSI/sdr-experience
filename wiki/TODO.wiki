@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary TODO.
 
 = TODO List =
- # Update all .grcs. A lot of GNU Radio Blocks were updated and moved to another category, its causes a lot of problems in .grcs;
+ # Update all .grcs. A lot of GNU Radio Blocks were updated and moved to another category, its causes a lot of problems in our .grcs;
