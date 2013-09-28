@@ -9,7 +9,7 @@ The GNU Radio Blocks were tested on Ubuntu 11.04 and Ubuntu 12.04.
   # Run CMAKE builder:
    * mkdir build
    * cd build
-   * cmake ../sdr-experience-read-only/gnuradio-blocks/gr-howto/
+   * cmake ../sdr-experience-read-only/gnuradio-blocks/gr-spectrum-sensing/
   # Make and Install it:
    * make 
    * sudo make install 
