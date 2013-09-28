@@ -14,4 +14,4 @@ The GNU Radio Blocks were tested on Ubuntu 11.04 and Ubuntu 12.04.
    * make 
    * sudo make install 
    * sudo ldconfig
-  # Open the GNU Radio Companion and look for new blocks into HOWTO session. The main block is called Spectrum Sensing. The other blocks will be removed!
+  # Open the GNU Radio Companion and look for new blocks into Spectrum Sensing category. The main block is called Spectrum Sensing Block.
