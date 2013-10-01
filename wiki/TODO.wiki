@@ -1,4 +1,7 @@
 #summary TODO.
 
 = TODO List =
- # Update all .grcs. A lot of GNU Radio Blocks were updated and moved to another category, its causes a lot of problems in our .grcs;
+ # Update all .grcs. A lot of GNU Radio Blocks were updated and moved to another category, it causes a lot of problems in our .grcs;
+
+# Create a matlab script to simulate the algorithm and its use for sensing the FM spectrum. Generate a WFM signal.
+ 
