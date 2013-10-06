@@ -2,8 +2,9 @@
 
 = TODO List =
  # Update all .grcs. A lot of GNU Radio Blocks were updated and moved to another category, it causes a lot of problems in our .grcs;
- # Create a matlab script to simulate the algorithm and its use for sensing the FM spectrum. Generate a WFM signal;
- # Define measures to be performed with the algorithm/dongle in order to plot all the results needed, e.g. Pfa vs SNR, Pd vs SNR, Pfa desired vs Pfa obtained, etc.
+ # (DONE) Create a matlab script to simulate the algorithm and its use for sensing the FM spectrum. Generate a WFM signal;
+ # Prepare MATLAB scripts for each one of the desired measures defined below.
+ # Define measures to be performed with the algorithm/dongle in order to plot all the results needed, e.g. Pfa vs SNR, Pd vs SNR, Pfa desired vs Pfa obtained, Pfa vs Achieved Pd, Function Profiling.
  # Define output values to be provided by the spectrum sensing block;
  # What kind of metrics can we employ in our paper?
  # Create a table with some Tcme values;
