@@ -9,4 +9,5 @@
  # Define output values to be provided by the spectrum sensing block;
  # What kind of metrics can we employ in our paper?
  # Create a table with some Tcme values;
+ # Add one more output to the spectrum sensing block which outputs SNR;
  
