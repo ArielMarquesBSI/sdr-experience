@@ -6,7 +6,7 @@
  # Create a python script to simulate the algorithm and its use for sensing the FM spectrum. Generate a WFM signal;
  # Prepare MATLAB scripts for each one of the desired measures defined below.
  # Define measures to be performed with the algorithm/dongle in order to plot all the results needed:
-    * Pfa vs SNR, 
+    * Pfa vs dbW, 
     * Pd vs SNR, 
     * desired Pfa vs achieved Pfa, 
     * Pfa vs Achieved Pd, 
