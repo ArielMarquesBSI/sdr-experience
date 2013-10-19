@@ -18,4 +18,4 @@
  # Add one more output to the spectrum sensing block which outputs SNR;
  # Create a block which measures the SNR;
  # Carry out simulations with VSG and USB dongle; 
- 
+ # Write a paper with findings/results.
