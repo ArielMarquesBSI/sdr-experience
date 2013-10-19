@@ -12,7 +12,7 @@
     * Pfa vs Achieved Pd, 
     * Function Profiling, 
     * FFT Size vs SNR vs PD.
- # Define output values to be provided by the spectrum sensing block;
+ # (DONE) Define output values to be provided by the spectrum sensing block: Pfa and Pd;
  # (DONE) What kind of metrics can we employ in our paper? The ones defined above.
  # Create a table with some Tcme values;
  # Add one more output to the spectrum sensing block which outputs SNR;
