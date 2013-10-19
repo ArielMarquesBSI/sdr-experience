@@ -8,7 +8,7 @@
  # Define measures to be performed with the algorithm/dongle in order to plot all the results needed:
     * Pfa vs dbW, 
     * Pd vs SNR, 
-    * desired Pfa vs achieved Pfa, 
+    * Desired Pfa vs Achieved Pfa, 
     * Pfa vs Achieved Pd, 
     * Function Profiling, 
     * FFT Size vs SNR vs PD.
