@@ -14,6 +14,7 @@
     * FFT Size vs SNR vs PD.
  # (DONE) Define output values to be provided by the spectrum sensing block: Pfa and Pd;
  # (DONE) What kind of metrics can we employ in our paper? The ones defined above.
+ # Add segments to check for each of the other FFT sizes;
  # Create a table with some Tcme values;
  # Add one more output to the spectrum sensing block which outputs SNR;
  # Create a block which measures the SNR;
